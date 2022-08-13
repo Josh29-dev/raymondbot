@@ -13,4 +13,5 @@ This will be an economy for Raymond bot which is pretty similar to dank memer bu
 # Discontinued
 
 ~~**Bank file change**~~
+
 ~~After the economy cog, the bank .json file will be replaced with something that will ensure stability (plus easier) Probably upgrade to something like mySQL or SQLite.~~
