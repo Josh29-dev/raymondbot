@@ -13,4 +13,4 @@ Raymond bot has many features which can be considered premium on other bots wher
 3. Create a bot from the [Discord Developer Portal](https://discord.com/developers/applications) with the permissions you want the bot to have and the **token** copied to your clipboard.
 4. In the ``main.py`` file use ``ctrl + F`` and search: "TOKEN". Highlight that and replace it with the token that you copied from the previous step. 
 
-If you have any questions about anything please feel free to leave a question in the issues tab and label it question. Thanks for reading my README.md
+If you have any questions about anything please feel free to leave a question in the discussions tab. Thanks for reading my README.md TED talk
