@@ -20,4 +20,5 @@ Raymond bot has many features which can be considered premium on other bots wher
 
 This project would not be possible without kkrypt0nn being so generous with their code, please show some support to their [patreon](https://patreon.com/kkrypt0nn) and [ko-fi](https://ko-fi.com/kkrypt0nn) also, the [repo that i took from](https://github.com/kkrypt0nn/Python-Discord-Bot-Template)
 
+# Ending
 If you have any questions about anything please feel free to leave a question in the discussions tab. Thanks for reading my README.md TED talk
