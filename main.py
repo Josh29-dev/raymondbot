@@ -179,4 +179,4 @@ async def deposit(ctx: disnake.CommandInteraction, amount):
 
 
 
-client.run("MTAwNDA0Mzc3MjAzNzk3NjA3NA.GaKTjD.GC-4eU1z7yD5y8YQtMBdp_vhPVzjljHaPkoFTk")
+client.run("TOKEN")
