@@ -2,7 +2,7 @@
 This is where my goals are for the bot, if you recommend something to me this'll where it will go! credit will go where credit is due of course ;)
 
 ## Economy 
-This will be an economy for Raymond bot which is pretty similar to dank memer but with a Raymond touch ;) There will be a bank with all the values stored on a .db file, this will most likely be accompanied with a leaderboard and store within time.
+This will be an economy for Raymond bot which is pretty similar to dank memer but with a Raymond touch ;) There will be a bank with all the values stored on a .db file. ~30% done
 
 ## Achievements 
 *when i get to this I will think of what this should do, if you want please leave some suggestions somewhere*
